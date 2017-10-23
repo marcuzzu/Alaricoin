@@ -2,7 +2,11 @@ pragma solidity ^0.4.16;
 
 
 
-//https
+	// TOKEN INFO SITE
+	// https://alaricoin.org/
+
+	// CONTRACT REPOSITORY
+	// https://github.com/marcuzzu/Alaricoin/blob/master/token/Alaricoin.sol
 
 
 
