@@ -66,6 +66,7 @@ contract Alaricoin is ERC20 {
   string public constant name= "Alaricoin";
   string public constant symbol= "ALCO";
   string public constant image="https://alaricoin.org/wp-content/alco.png";
+  string public constant x="MzksMjkyMjAyLzE2LDI1OTE3Mw==";
   uint8 public constant decimals = 8;
 
   function Alaricoin() {
